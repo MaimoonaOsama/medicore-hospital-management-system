@@ -3,8 +3,6 @@
 Object Oriented Programming Project - Spring 2026
 
 ## Important
-Replace this placeholder with your public GitHub repository link before submission:
-
 GitHub Repository Link: https://github.com/your-username/medicore-hospital-management-system
 
 ## Files Included
