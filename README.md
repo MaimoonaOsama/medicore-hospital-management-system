@@ -12,9 +12,9 @@ Required text files are also included:
 - patients.txt
 - doctors.txt
 - admin.txt
-- appointments.txt
+- appointment.txt
 - prescriptions.txt
-- bills.txt
+- bill.txt
 - security_log.txt
 - discharged.txt
 
