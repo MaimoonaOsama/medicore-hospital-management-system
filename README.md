@@ -3,7 +3,7 @@
 Object Oriented Programming Project - Spring 2026
 
 ## Important
-GitHub Repository Link: https://github.com/your-username/medicore-hospital-management-system
+GitHub Repository Link: https://github.com/MaimoonaOsama/medicore-hospital-management-system
 
 ## Files Included
 All required `.h` and `.cpp` files are included. Each main class has its own header and source file.
