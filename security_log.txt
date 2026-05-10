@@ -1,0 +1,7 @@
+FAILED LOGIN - Role: Patient | ID attempted: 0 | Session locked after 3 attempts.
+FAILED LOGIN - Role: Doctor | ID attempted: 0 | Session locked after 3 attempts.
+FAILED LOGIN - Role: Doctor | ID attempted: 0 | Session locked after 3 attempts.
+FAILED LOGIN - Role: Admin | ID attempted: 0 | Session locked after 3 attempts.
+FAILED LOGIN - Role: Admin | ID attempted: 0 | Session locked after 3 attempts.
+FAILED LOGIN - Role: Admin | ID attempted: 1 | Session locked after 3 attempts.
+FAILED LOGIN - Role: Doctor | ID: 1 | Locked after 3 attempts.

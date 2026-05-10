@@ -1,0 +1,7 @@
+1,Ahmed Ali,28,M,03001234567,pass123,5200
+2,Ayesha Noor,35,F,03011234567,ayesha1,7000
+3,fatima,23,F,03006698987,password,1200
+4,amna,43,F,03214800852,password,3000
+5,maimoona,18,F,03274253449,password,4000
+6,fatima,23,F,03006698987,password,1500
+7,maimoona,18,F,03274253449,password,4000
